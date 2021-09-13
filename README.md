@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RohanDeb1
+- 👋 Hi, I’m @RohanDeb
 - 👀 I’m interested in Web development and design
-- 🌱 I’m currently learning front end web dev
+- 🌱 I’m currently learning front end web dev and graphic designing
 - 💞️ I’m looking to collaborate on teams
 - 📫 reach me ... rohandeb0612@gmail.com
 
