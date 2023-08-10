@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rohandeb1.io)
 <h1 align="center">Hi 👋, I'm Rohan Deb</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="">https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif
+<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 
 - 👀 I’m interested in Web development and graphics design
