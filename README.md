@@ -18,11 +18,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohandeb1&show_icons=true&locale=en&layout=compact" alt="rohandeb1" /></p>
 
-- 👋 Hi, I’m RohanDeb
-- 👀 I’m interested in Web development and graphics design
-- 🌱 I’m currently learning full-stack web dev(MERN)
-- 💞️ I’m looking to collaborate on teams
-- 📫 reach me ... rohandeb0612@gmail.com
+
 
 <!---
 RohanDeb1/RohanDeb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
